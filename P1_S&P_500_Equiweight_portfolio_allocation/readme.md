@@ -1,1 +1,1 @@
-###001_equal_weight_S&P_500
+# Project 1 : Create a list of stocks to buy to make equiweight S&P 500 Portfolio
